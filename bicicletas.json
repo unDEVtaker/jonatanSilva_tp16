@@ -21,7 +21,7 @@
       "peso": 15,
       "tipo": "Paseo",
       "precio": 90000,
-      "vendida": true
+      "vendida": false
     },
     {
       "id": 3,
