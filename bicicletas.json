@@ -27,10 +27,10 @@
       "id": 3,
       "marca": "Trek",
       "modelo": "Marlin 7",
-      "rodado": 27.5,
+      "rodado":16,
       "anio": 2023,
       "color": "azul",
-      "peso": 14,
+      "peso": 16,
       "tipo": "Montañera",
       "precio": 150000,
       "vendida": false
@@ -43,7 +43,7 @@
       "anio": 2020,
       "color": "gris",
       "peso": 13,
-      "tipo": "Urbana",
+      "tipo": "Retro,",
       "precio": 80000,
       "vendida": true
     },
@@ -54,8 +54,8 @@
       "rodado": 29,
       "anio": 2022,
       "color": "verde",
-      "peso": 12,
-      "tipo": "Híbrida",
+      "peso": 15,
+      "tipo": "Triatlón",
       "precio": 130000,
       "vendida": false
     }
